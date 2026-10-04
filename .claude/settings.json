@@ -1,0 +1,17 @@
+{
+  "enabledPlugins": {
+    "stack-typescript@claude-kit": true,
+    "superpowers@claude-plugins-official": true,
+    "pr-review-toolkit@claude-plugins-official": true,
+    "security-guidance@claude-plugins-official": true,
+    "commit-commands@claude-plugins-official": true
+  },
+  "extraKnownMarketplaces": {
+    "claude-kit": {
+      "source": {
+        "source": "github",
+        "repo": "Dart18-80/claude-kit"
+      }
+    }
+  }
+}
